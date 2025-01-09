@@ -293,15 +293,10 @@
 					</div>
 				</div>
 			</footer>
-			<!-- Optional JavaScript -->
-			<!-- jQuery -->
+			
 			
 			
 			
 		</body>
 	</html>
-	<?php
-		
-	}else 
-	header('location:login.php?deactivate');
-?>					
+					
